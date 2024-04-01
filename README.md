@@ -7,7 +7,6 @@ You can send automated messages of your choice.
 :smile:
 
 ## Instructions :blue_book:
-
 ### Export the Contacts
  Export in Google CSV format all your contacts or a particular contact and save it as **contact.csv** 
  
